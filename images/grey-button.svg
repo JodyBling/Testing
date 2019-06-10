@@ -1,0 +1,62 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 569.785 168.974">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-6 {
+        opacity: 0;
+        fill: url(#linear-gradient-5);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="306.911" cy="-92.727" r="166.161" gradientTransform="translate(-241.245 159.74) scale(1.714 0.126)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#666"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="420.534" y1="336.194" x2="420.534" y2="215.668" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bdbdbd"/>
+      <stop offset="0.444" stop-color="#a6a6a6"/>
+      <stop offset="1" stop-color="#e6e6e6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="420.535" y1="334.367" x2="420.535" y2="217.494" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bdbdbd"/>
+      <stop offset="0.29" stop-color="#a6a6a6"/>
+      <stop offset="1" stop-color="#f2f2f2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="356.617" y1="327.063" x2="356.617" y2="224.799" gradientUnits="userSpaceOnUse">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#636363"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="356.617" y1="323.41" x2="356.617" y2="228.452" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#636363"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="472.444" y1="120.681" x2="472.444" y2="0" xlink:href="#linear-gradient-4"/>
+  </defs>
+  <title>Grey Button</title>
+  <g>
+    <ellipse class="cls-1" cx="284.892" cy="148.074" rx="284.892" ry="20.9"/>
+    <path class="cls-2" d="M675.28,275.932a60.263,60.263,0,0,1-60.262,60.262H226.051a60.263,60.263,0,0,1-60.263-60.262h0a60.264,60.264,0,0,1,60.263-60.264H615.018a60.263,60.263,0,0,1,60.262,60.264Z" transform="translate(-135.642 -215.513)"/>
+    <path class="cls-3" d="M673.318,272.126a58.5,58.5,0,0,0-58.3-54.632H226.051a58.5,58.5,0,0,0-58.3,54.632Z" transform="translate(-135.642 -215.513)"/>
+    <path class="cls-4" d="M226.051,327.063a51.132,51.132,0,0,1,0-102.263H487.183a51.132,51.132,0,0,1,0,102.263Z" transform="translate(-135.642 -215.513)"/>
+    <path class="cls-5" d="M226.051,323.41a47.479,47.479,0,0,1,0-94.958H487.183a47.479,47.479,0,0,1,0,94.958Z" transform="translate(-135.642 -215.513)"/>
+    <ellipse class="cls-6" cx="472.444" cy="60.34" rx="61.715" ry="60.34"/>
+  </g>
+</svg>
