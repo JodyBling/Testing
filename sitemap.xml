@@ -120,9 +120,6 @@
       <image:loc>http://www.testing.co.za/images/sow.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.testing.co.za/images/it.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.testing.co.za/images/delivery.png</image:loc>
     </image:image>
     <image:image>
@@ -142,6 +139,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.testing.co.za/images/ac.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/it-crop-u758.png</image:loc>
     </image:image>
   </url>
   <url>
