@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.testing.co.za" resolutions="1x" timestamp="1560159794413">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.testing.co.za" resolutions="1x" timestamp="1560159965869">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="t-c.css" crc="3942462087" ref="t-c"/>
-    <file name="index.css" crc="3818265597" ref="index"/>
+    <file name="index.css" crc="3997904941" ref="index"/>
     <file name="delivery.css" crc="4259830181" ref="delivery"/>
     <file name="aircon.css" crc="157564716" ref="aircon"/>
     <file name="email.css" crc="4054576262" ref="email"/>
@@ -101,12 +101,12 @@
       <caption webpage="t-c" alt=""/>
       <caption webpage="aircon" alt=""/>
     </file>
-    <file name="grey button_poster_.png" crc="183276348" ref="delivery"/>
+    <file name="grey button_poster_.png" crc="183276348" ref="delivery:index"/>
     <file name="welcome.png" crc="4037138809" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4287020580" seo="true" mt="1560159777479" redirect="true"/>
+  <file name="index.html" crc="22270579" seo="true" mt="1560159950556" redirect="true"/>
   <file name="delivery.html" crc="3971022686" seo="true" mt="1560159708450" redirect="true"/>
   <file name="basic.html" crc="19441385" seo="true" mt="1560159708450" redirect="true"/>
   <file name="advanced.html" crc="166668735" seo="true" mt="1560159708450" redirect="true"/>
