@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.testing.co.za" resolutions="1x" timestamp="1560177455565">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.testing.co.za" resolutions="1x" timestamp="1560177700609">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="t-c.css" crc="3804335144" ref="t-c"/>
@@ -10,7 +10,7 @@
     <file name="gas.css" crc="147966256" ref="gas"/>
     <file name="advanced.css" crc="121465599" ref="advanced"/>
     <file name="basic.css" crc="331430217" ref="basic"/>
-    <file name="services.css" crc="4006092859" ref="services"/>
+    <file name="services.css" crc="4013019331" ref="services"/>
   </folder>
   <folder name="assets">
     <file name="blingstallation-logo-with-tagline-02-11-2018.tif" crc="123445213" seo="true" mt="1541421120000"/>
@@ -114,5 +114,5 @@
   <file name="end.html" crc="95552290" seo="true" mt="1560160240359" redirect="false"/>
   <file name="t-c.html" crc="257976000" seo="true" mt="1560160338064" redirect="true"/>
   <file name="email.html" crc="439337476" seo="true" mt="1560160345329" redirect="true"/>
-  <file name="services.html" crc="4259854849" seo="true" mt="1560162782845" redirect="true"/>
+  <file name="services.html" crc="3941485225" seo="true" mt="1560177690274" redirect="true"/>
 </manifest>
