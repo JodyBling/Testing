@@ -6,37 +6,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.testing.co.za/images/logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.testing.co.za/images/block%201.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.testing.co.za/images/sow.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.testing.co.za/images/it.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.testing.co.za/images/delivery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.testing.co.za/images/sports.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.testing.co.za/images/plumbing.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.testing.co.za/images/outdoor.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.testing.co.za/images/gas.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.testing.co.za/images/electrical.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.testing.co.za/images/ac.png</image:loc>
+      <image:loc>http://www.testing.co.za/images/grey-button.svg</image:loc>
     </image:image>
   </url>
   <url>
@@ -88,10 +58,16 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.testing.co.za/end.html</loc>
+    <loc>http://www.testing.co.za/t-c.html</loc>
     <lastmod>2019-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/grey-button.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.testing.co.za/aircon.html</loc>
@@ -106,16 +82,10 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.testing.co.za/t-c.html</loc>
+    <loc>http://www.testing.co.za/end.html</loc>
     <lastmod>2019-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://www.testing.co.za/images/logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.testing.co.za/images/grey-button.svg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://www.testing.co.za/email.html</loc>
@@ -127,6 +97,45 @@
     </image:image>
     <image:image>
       <image:loc>http://www.testing.co.za/images/grey-button.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.testing.co.za/services.html</loc>
+    <lastmod>2019-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/block%201.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/sow.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/it.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/delivery.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/sports.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/plumbing.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/outdoor.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/gas.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/electrical.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/ac.png</image:loc>
     </image:image>
   </url>
   <url>

@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.testing.co.za" resolutions="1x" timestamp="1560154433065">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.testing.co.za" resolutions="1x" timestamp="1560157295947">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="t-c.css" crc="3804335144" ref="t-c"/>
-    <file name="index.css" crc="4056133961" ref="index"/>
+    <file name="index.css" crc="3990357438" ref="index"/>
     <file name="delivery.css" crc="3800177872" ref="delivery"/>
     <file name="aircon.css" crc="22577539" ref="aircon"/>
     <file name="email.css" crc="4187443753" ref="email"/>
@@ -10,20 +10,88 @@
     <file name="gas.css" crc="147966256" ref="gas"/>
     <file name="advanced.css" crc="433212547" ref="advanced"/>
     <file name="basic.css" crc="331430217" ref="basic"/>
+    <file name="services.css" crc="4056133961" ref="services"/>
   </folder>
   <folder name="assets">
     <file name="blingstallation-logo-with-tagline-02-11-2018.tif" crc="123445213" seo="true" mt="1541421120000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:delivery:basic:advanced:gas:aircon:end:t-c:email"/>
-    <file name="museutils.js" crc="3803043152" ref="index:delivery:basic:advanced:gas:aircon:end:t-c:email"/>
-    <file name="whatinput.js" crc="86476730" ref="index:delivery:basic:advanced:gas:aircon:end:t-c:email"/>
-    <file name="museconfig.js" crc="380897831" ref="index:delivery:basic:advanced:gas:aircon:end:t-c:email"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:delivery:basic:advanced:gas:aircon:end:t-c:email"/>
-    <file name="require.js" crc="4157109226" ref="index:delivery:basic:advanced:gas:aircon:end:t-c:email"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:delivery:basic:advanced:gas:aircon:end:t-c:email:services"/>
+    <file name="museutils.js" crc="3803043152" ref="index:delivery:basic:advanced:gas:aircon:end:t-c:email:services"/>
+    <file name="whatinput.js" crc="86476730" ref="index:delivery:basic:advanced:gas:aircon:end:t-c:email:services"/>
+    <file name="museconfig.js" crc="380897831" ref="index:delivery:basic:advanced:gas:aircon:end:t-c:email:services"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:delivery:basic:advanced:gas:aircon:end:t-c:email:services"/>
+    <file name="require.js" crc="4157109226" ref="index:delivery:basic:advanced:gas:aircon:end:t-c:email:services"/>
   </folder>
   <folder name="images">
-    <file name="logo.png" crc="4114697457" seo="true" ref="index:delivery:basic:advanced:gas:aircon:t-c:email">
+    <file name="logo.png" crc="4114697457" seo="true" ref="delivery:basic:advanced:gas:aircon:t-c:email:services">
+      <caption webpage="basic" alt=""/>
+      <caption webpage="delivery" alt=""/>
+      <caption webpage="gas" alt=""/>
+      <caption webpage="advanced" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="email" alt=""/>
+      <caption webpage="t-c" alt=""/>
+      <caption webpage="aircon" alt=""/>
+    </file>
+    <file name="block 1.png" crc="128555638" seo="true" ref="services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="sow.png" crc="100428736" seo="true" ref="services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="it.png" crc="3957289005" seo="true" ref="services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="delivery.png" crc="375605887" seo="true" ref="services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="sports.png" crc="791816" seo="true" ref="services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="plumbing.png" crc="4200291013" seo="true" ref="services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="outdoor.png" crc="488062598" seo="true" ref="services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="gas.png" crc="4004737389" seo="true" ref="services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="electrical.png" crc="4171537553" seo="true" ref="services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="ac.png" crc="483427011" seo="true" ref="services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="grey-button.svg" crc="4193287326" seo="true" ref="delivery:basic:advanced:gas:aircon:t-c:email:index">
       <caption webpage="basic" alt=""/>
       <caption webpage="delivery" alt=""/>
       <caption webpage="gas" alt=""/>
@@ -33,62 +101,16 @@
       <caption webpage="t-c" alt=""/>
       <caption webpage="aircon" alt=""/>
     </file>
-    <file name="block 1.png" crc="128555638" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sow.png" crc="100428736" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="it.png" crc="3957289005" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="delivery.png" crc="375605887" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sports.png" crc="791816" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="plumbing.png" crc="4200291013" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="outdoor.png" crc="488062598" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="gas.png" crc="4004737389" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="electrical.png" crc="4171537553" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ac.png" crc="483427011" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="grey-button.svg" crc="4193287326" seo="true" ref="delivery:basic:advanced:gas:aircon:t-c:email">
-      <caption webpage="basic" alt=""/>
-      <caption webpage="delivery" alt=""/>
-      <caption webpage="gas" alt=""/>
-      <caption webpage="advanced" alt=""/>
-      <caption webpage="email" alt=""/>
-      <caption webpage="t-c" alt=""/>
-      <caption webpage="aircon" alt=""/>
-    </file>
-    <file name="grey button_poster_.png" crc="183276348" ref="delivery"/>
+    <file name="grey button_poster_.png" crc="387910787" ref="delivery:index"/>
   </folder>
-  <file name="index.html" crc="3915069961" seo="true" mt="1560153708724" redirect="true"/>
-  <file name="delivery.html" crc="3951684310" seo="true" mt="1560154137058" redirect="true"/>
-  <file name="basic.html" crc="3990501192" seo="true" mt="1560154145525" redirect="true"/>
-  <file name="advanced.html" crc="43433760" seo="true" mt="1560154152720" redirect="true"/>
-  <file name="gas.html" crc="3788396305" seo="true" mt="1560154161784" redirect="true"/>
-  <file name="aircon.html" crc="424259556" seo="true" mt="1560154170433" redirect="true"/>
+  <file name="index.html" crc="4048533845" seo="true" mt="1560157280418" redirect="true"/>
+  <file name="delivery.html" crc="340662702" seo="true" mt="1560157185589" redirect="true"/>
+  <file name="basic.html" crc="69994684" seo="true" mt="1560157185587" redirect="true"/>
+  <file name="advanced.html" crc="3816072005" seo="true" mt="1560157185585" redirect="true"/>
+  <file name="gas.html" crc="358667923" seo="true" mt="1560157185581" redirect="true"/>
+  <file name="aircon.html" crc="37468639" seo="true" mt="1560157185588" redirect="true"/>
   <file name="end.html" crc="95552290" seo="true" mt="1560151998643" redirect="false"/>
-  <file name="t-c.html" crc="342487897" seo="true" mt="1560154180512" redirect="true"/>
-  <file name="email.html" crc="4104721860" seo="true" mt="1560154192226" redirect="true"/>
+  <file name="t-c.html" crc="431828504" seo="true" mt="1560157185590" redirect="true"/>
+  <file name="email.html" crc="217221852" seo="true" mt="1560157185586" redirect="true"/>
+  <file name="services.html" crc="4066161255" seo="true" mt="1560157185591" redirect="true"/>
 </manifest>
