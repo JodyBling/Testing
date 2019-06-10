@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.testing.co.za" resolutions="1x" timestamp="1560159479827">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.testing.co.za" resolutions="1x" timestamp="1560159794413">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="t-c.css" crc="3946046232" ref="t-c"/>
-    <file name="index.css" crc="4255365862" ref="index"/>
-    <file name="delivery.css" crc="4230547514" ref="delivery"/>
-    <file name="aircon.css" crc="145419955" ref="aircon"/>
-    <file name="email.css" crc="4033166617" ref="email"/>
-    <file name="end.css" crc="4125300384" ref="end"/>
-    <file name="gas.css" crc="19113472" ref="gas"/>
-    <file name="advanced.css" crc="95594835" ref="advanced"/>
-    <file name="basic.css" crc="439572089" ref="basic"/>
-    <file name="services.css" crc="4178116497" ref="services"/>
+    <file name="t-c.css" crc="3942462087" ref="t-c"/>
+    <file name="index.css" crc="3818265597" ref="index"/>
+    <file name="delivery.css" crc="4259830181" ref="delivery"/>
+    <file name="aircon.css" crc="157564716" ref="aircon"/>
+    <file name="email.css" crc="4054576262" ref="email"/>
+    <file name="end.css" crc="3980319682" ref="end"/>
+    <file name="gas.css" crc="15562655" ref="gas"/>
+    <file name="advanced.css" crc="4091293857" ref="advanced"/>
+    <file name="basic.css" crc="469600230" ref="basic"/>
+    <file name="services.css" crc="4069044191" ref="services"/>
   </folder>
   <folder name="assets">
     <file name="blingstallation-logo-with-tagline-02-11-2018.tif" crc="123445213" seo="true" mt="1541421120000"/>
@@ -101,19 +101,19 @@
       <caption webpage="t-c" alt=""/>
       <caption webpage="aircon" alt=""/>
     </file>
-    <file name="grey button_poster_.png" crc="183276348" ref="delivery:index"/>
+    <file name="grey button_poster_.png" crc="183276348" ref="delivery"/>
     <file name="welcome.png" crc="4037138809" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="205412154" seo="true" mt="1560159464740" redirect="true"/>
-  <file name="delivery.html" crc="398105615" seo="true" mt="1560159181428" redirect="true"/>
-  <file name="basic.html" crc="468143458" seo="true" mt="1560159266157" redirect="true"/>
-  <file name="advanced.html" crc="474210041" seo="true" mt="1560159277369" redirect="true"/>
-  <file name="gas.html" crc="152587481" seo="true" mt="1560159292910" redirect="true"/>
-  <file name="aircon.html" crc="153741627" seo="true" mt="1560159305920" redirect="true"/>
-  <file name="end.html" crc="4009729873" seo="true" mt="1560159127866" redirect="false"/>
-  <file name="t-c.html" crc="25662951" seo="true" mt="1560159317865" redirect="true"/>
-  <file name="email.html" crc="279997446" seo="true" mt="1560159328822" redirect="true"/>
-  <file name="services.html" crc="4157289089" seo="true" mt="1560159140371" redirect="true"/>
+  <file name="index.html" crc="4287020580" seo="true" mt="1560159777479" redirect="true"/>
+  <file name="delivery.html" crc="3971022686" seo="true" mt="1560159708450" redirect="true"/>
+  <file name="basic.html" crc="19441385" seo="true" mt="1560159708450" redirect="true"/>
+  <file name="advanced.html" crc="166668735" seo="true" mt="1560159708450" redirect="true"/>
+  <file name="gas.html" crc="4135609716" seo="true" mt="1560159708450" redirect="true"/>
+  <file name="aircon.html" crc="113294100" seo="true" mt="1560159708450" redirect="true"/>
+  <file name="end.html" crc="403240167" seo="true" mt="1560159708450" redirect="false"/>
+  <file name="t-c.html" crc="3768641399" seo="true" mt="1560159708450" redirect="true"/>
+  <file name="email.html" crc="239032355" seo="true" mt="1560159708450" redirect="true"/>
+  <file name="services.html" crc="3859591470" seo="true" mt="1560159708450" redirect="true"/>
 </manifest>
