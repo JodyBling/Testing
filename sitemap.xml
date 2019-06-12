@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.testing.co.za/index.html</loc>
-    <lastmod>2019-06-10</lastmod>
+    <lastmod>2019-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -14,10 +14,13 @@
     <image:image>
       <image:loc>http://www.testing.co.za/images/welcome.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/blingzen%20003-crop-u1307.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.testing.co.za/gas.html</loc>
-    <lastmod>2019-06-10</lastmod>
+    <lastmod>2019-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -25,11 +28,14 @@
     </image:image>
     <image:image>
       <image:loc>http://www.testing.co.za/images/grey-button.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/blingzen%20003-crop-u1351.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.testing.co.za/delivery.html</loc>
-    <lastmod>2019-06-10</lastmod>
+    <lastmod>2019-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -37,11 +43,14 @@
     </image:image>
     <image:image>
       <image:loc>http://www.testing.co.za/images/grey-button.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/blingzen%20003-crop-u1330.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.testing.co.za/basic.html</loc>
-    <lastmod>2019-06-10</lastmod>
+    <lastmod>2019-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -49,11 +58,14 @@
     </image:image>
     <image:image>
       <image:loc>http://www.testing.co.za/images/grey-button.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/blingzen%20003-crop-u1337.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.testing.co.za/advanced.html</loc>
-    <lastmod>2019-06-10</lastmod>
+    <lastmod>2019-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -61,6 +73,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.testing.co.za/images/grey-button.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/blingzen%20003-crop-u1344.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -77,7 +92,7 @@
   </url>
   <url>
     <loc>http://www.testing.co.za/aircon.html</loc>
-    <lastmod>2019-06-10</lastmod>
+    <lastmod>2019-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -85,63 +100,87 @@
     </image:image>
     <image:image>
       <image:loc>http://www.testing.co.za/images/grey-button.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/blingzen%20003-crop-u1358.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.testing.co.za/end.html</loc>
-    <lastmod>2019-06-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.testing.co.za/email.html</loc>
-    <lastmod>2019-06-10</lastmod>
+    <lastmod>2019-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://www.testing.co.za/images/logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.testing.co.za/images/grey-button.svg</image:loc>
+      <image:loc>http://www.testing.co.za/images/blingzen%20003-crop-u1379.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.testing.co.za/email.html</loc>
+    <lastmod>2019-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/blingzen%20003-crop-u1365.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/grey-button2.svg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.testing.co.za/services.html</loc>
-    <lastmod>2019-06-10</lastmod>
+    <lastmod>2019-06-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://www.testing.co.za/images/logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.testing.co.za/images/block%201.png</image:loc>
+      <image:loc>http://www.testing.co.za/images/blingzen%20003-crop-u1323.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.testing.co.za/images/sow.png</image:loc>
+      <image:loc>http://www.testing.co.za/images/green%20honey.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.testing.co.za/images/delivery.png</image:loc>
+      <image:loc>http://www.testing.co.za/images/pic%201.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.testing.co.za/images/sports.png</image:loc>
+      <image:loc>http://www.testing.co.za/images/pic%202.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.testing.co.za/images/plumbing.png</image:loc>
+      <image:loc>http://www.testing.co.za/images/pic%203.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.testing.co.za/images/outdoor.png</image:loc>
+      <image:loc>http://www.testing.co.za/images/pic%204.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.testing.co.za/images/gas.png</image:loc>
+      <image:loc>http://www.testing.co.za/images/pic%205.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.testing.co.za/images/electrical.png</image:loc>
+      <image:loc>http://www.testing.co.za/images/pic%206.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.testing.co.za/images/ac.png</image:loc>
+      <image:loc>http://www.testing.co.za/images/pic%207.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.testing.co.za/images/it-crop-u758.png</image:loc>
+      <image:loc>http://www.testing.co.za/images/pic%208.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/pic%2010.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/pic%2011.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/pic%2012.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.testing.co.za/images/pic%2013.png</image:loc>
     </image:image>
   </url>
   <url>
